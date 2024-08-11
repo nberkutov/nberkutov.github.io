@@ -1,6 +1,6 @@
 {
-    "name": "guide_admin_panel",
-    "short_name": "guide_admin_panel",
+    "name": "myartist",
+    "short_name": "myartist",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
